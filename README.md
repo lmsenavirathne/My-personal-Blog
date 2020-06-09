@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Lithika Methsilu Senavirathne's Blog
 
 <ul>
 <li>I am Lithika Methsilu Senavirathne. 
 <li>A proud son of Mother Ananda. 
 <li>I am 13 years old. 
 <li>I'm intersted in Mathematics,Science and ICT.
-  </ul>
+  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lmsenavirathne/My-personal-Blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<ul>
+<li>I am Lithika Methsilu Senavirathne. 
+<li>A proud son of Mother Ananda. 
+<li>I am 13 years old. 
+<li>I'm intersted in Mathematics,Science and ICT.
+  </ul>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
